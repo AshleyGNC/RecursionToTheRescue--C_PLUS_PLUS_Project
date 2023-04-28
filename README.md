@@ -1,6 +1,8 @@
 # RecursionToTheRescue--C_PLUS_PLUS_Project
 This project uses Recursion and Data Structures like Maps, Sets, Vectors, and Graphs to solve two different problems
 
+RecursionToTheRescue.cpp holds the main functions that solve the two problems
+Main.cpp holds the testing code for this project
 Problem 1: Doctors Without Orders 
 
  * Given a list of doctors and a list of patients, determines whether all the patients can

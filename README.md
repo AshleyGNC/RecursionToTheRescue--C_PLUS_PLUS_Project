@@ -1,5 +1,5 @@
 # RecursionToTheRescue--C_PLUS_PLUS_Project
-This project uses Recursion and Data Structures like Maps, Sets, Vectors, and Graphs to solve two different problems
+This project uses Recursion and Data Structures like Maps, Sets, and Vectors to solve two different problems
 
 RecursionToTheRescue.cpp holds the main functions that solve the two problems. Main.cpp holds the testing code for this project.
 

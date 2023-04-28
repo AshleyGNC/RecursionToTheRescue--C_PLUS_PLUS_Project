@@ -3,7 +3,7 @@ This project uses Recursion and Data Structures like Maps, Sets, Vectors, and Gr
 
 RecursionToTheRescue.cpp holds the main functions that solve the two problems. Main.cpp holds the testing code for this project.
 
-Printing.cpp prints a readeable version of the Doctors and Patient Order, using the Common.h file from another project. A simple implementation of this can be seen in the Common.cpp file.
+Printing.cpp prints a readeable version of the Doctors and Patient Order using the Common.h file from another project. A simple implementation of this can be seen in the Common.cpp file.
 
 Problem 1: Doctors Without Orders 
 
